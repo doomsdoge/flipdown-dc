@@ -3,7 +3,7 @@ import '@leenguyen/react-flip-clock-countdown/dist/index.css'
 
 // ── EDIT THESE ──────────────────────────────────────────────
 const SUBTITLE = 'Your opening sentence goes here...'
-const IMAGE_URL = '/B2-29.png'
+const IMAGE_URL = '/flipdown-dc/B2-29.png'
 const IMAGE_ALT = 'Dennis and Cindy'
 const COUNTDOWN_DATE = new Date('2026-07-18T00:00:00').getTime()
 // ────────────────────────────────────────────────────────────
