@@ -2,7 +2,7 @@ import FlipClockCountdown from '@leenguyen/react-flip-clock-countdown'
 import '@leenguyen/react-flip-clock-countdown/dist/index.css'
 
 // ── EDIT THESE ──────────────────────────────────────────────
-const SUBTITLE = 'Your opening sentence goes here...'
+const SUBTITLE = 'The adventure of Bebe and Bebecin'
 const IMAGE_URL = '/flipdown-dc/B2-29.png'
 const IMAGE_ALT = 'Dennis and Cindy'
 const COUNTDOWN_DATE = new Date('2026-07-18T00:00:00').getTime()
